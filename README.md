@@ -78,5 +78,6 @@ npm start
 
 4. Open your browser and navigate to http://localhost:3000 to view the dashboard.
 
-![image](https://github.com/HamzaIqbal22/Henon---Dashboard-Project/assets/81776951/d09547a6-78b5-4846-b8f7-6222cbc00a3a)
+![image](https://github.com/HamzaIqbal22/Currency_Dashboard-/assets/81776951/6fd1bf0c-976d-44a6-9950-cb8d65afd94b)
+
 
