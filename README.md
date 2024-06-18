@@ -80,4 +80,5 @@ npm start
 
 ![image](https://github.com/HamzaIqbal22/Currency_Dashboard-/assets/81776951/6fd1bf0c-976d-44a6-9950-cb8d65afd94b)
 
+![image](https://github.com/HamzaIqbal22/Currency_Dashboard-/assets/81776951/977ed809-fcb4-4c12-a10f-dcabcba5e033)
 
