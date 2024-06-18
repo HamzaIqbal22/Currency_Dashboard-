@@ -78,7 +78,11 @@ npm start
 
 4. Open your browser and navigate to http://localhost:3000 to view the dashboard.
 
+### React UI Dashboard
 ![image](https://github.com/HamzaIqbal22/Currency_Dashboard-/assets/81776951/6fd1bf0c-976d-44a6-9950-cb8d65afd94b)
 
+### HTTP Responses from API Request
 ![image](https://github.com/HamzaIqbal22/Currency_Dashboard-/assets/81776951/977ed809-fcb4-4c12-a10f-dcabcba5e033)
 
+### Django Server
+![image](https://github.com/HamzaIqbal22/Currency_Dashboard-/assets/81776951/faf23b94-d962-4740-8de8-b9cdbb4a1773)
